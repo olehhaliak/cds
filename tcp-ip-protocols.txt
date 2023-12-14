@@ -1,0 +1,36 @@
+Protocols Based on TCP/IP
+1. HTTP (Hypertext Transfer Protocol):
+
+Foundational communication protocol for the World Wide Web.
+Transfers hypertext (text with hyperlinks) between web servers and browsers.
+Operates on a request-response model.
+Port: 80 (default)
+Examples: Browsing websites, downloading files, streaming videos
+2. HTTPS (Hypertext Transfer Protocol Secure):
+
+Secure version of HTTP.
+Encrypts communication using SSL/TLS.
+Ensures data privacy and integrity.
+Port: 443 (default)
+Examples: Secure online shopping, banking, email access
+3. FTP (File Transfer Protocol):
+
+Designed specifically for transferring files between computers on a network.
+Allows users to upload and download files from servers.
+Offers active and passive modes.
+Port: 21 (default)
+Examples: Downloading software updates, backing up data, sharing large files
+4. SSH (Secure Shell):
+
+Enables secure connections to remote computers over a network.
+Provides encrypted communication for tasks like logging in, executing commands, transferring files.
+Uses public-key cryptography for authentication.
+Port: 22 (default)
+Examples: Managing servers remotely, accessing files on other computers, secure communication
+5. SMTP (Simple Mail Transfer Protocol):
+
+Standard for sending and receiving email.
+Used to transfer email messages between mail servers.
+Employs a store-and-forward model.
+Port: 25 (default)
+Examples: Sending and receiving emails, setting up email accounts, configuring email servers

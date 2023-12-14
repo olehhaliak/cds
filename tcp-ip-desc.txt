@@ -1,6 +1,0 @@
-
-TCP/IP, standing for Transmission Control Protocol/Internet Protocol, is the communication language of the internet. It's a set of rules that allows computers to talk to each other and share information. Imagine it like a post office system for data:
-
-IP (Internet Protocol): This is the addressing system. It assigns unique addresses to each device on the network, like a street address for your computer.
-TCP (Transmission Control Protocol): This is the delivery system. It breaks down information into packets, sends them through the network, and ensures they arrive in the correct order and without errors.
-Together, TCP and IP work behind the scenes to make sure your internet experience is smooth and seamless. Whether you're browsing websites, streaming videos, or sending emails, TCP/IP is making it all happen.
